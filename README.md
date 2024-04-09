@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jitendra Kumar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitendra3618" alt="jitendra3618" /></a> </p>
+
 
 - 🔭 I’m currently working on **Backend Development**
 
